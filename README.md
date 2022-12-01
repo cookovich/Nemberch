@@ -1,8 +1,7 @@
 # Nürnberg Infos
 
 ## Unterkunft
-Sigmundstraße, Eduardstraße 9 
-1. Stock, Nürnberg
+Sigmundstraße, Eduardstraße 9, 1. Stock, Nürnberg
 https://goo.gl/maps/dBmGxwMX7qY2GmSn6
 
 Haltestelle:
