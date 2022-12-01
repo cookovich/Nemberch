@@ -1,5 +1,13 @@
 # Nürnberg Infos
 
+## Unterkunft
+Sigmundstraße, Eduardstraße 9 
+1. Stock, Nürnberg
+https://goo.gl/maps/dBmGxwMX7qY2GmSn6
+
+Haltestelle:
+Nürnberg Lenkersheimer Str. - Richtung Maximilianstr, dann mit U
+
 ## Gastro 
 ### Restaurants
 - Bocksbeutel-Stube im Pillhofer [am HBF, Fränkisch, Gasthaus]
@@ -41,3 +49,20 @@ https://goo.gl/maps/5mdU2LNwjZdBDZWy5
 
 - Mariposa [City SW, Restaurant Veg]
 https://goo.gl/maps/9MKk25T4RZuy9As77
+
+### Bars
+- O’Sheas Irish Pub [City O]
+https://goo.gl/maps/3R3WZbwV5TJf6Fak9
+
+- Irish Castle Pub [City SW]
+https://goo.gl/maps/dDtEPqjn92JLERJz5
+
+- Bierwerk [City, W]
+https://goo.gl/maps/22LrrRwE8YC8iykDA
+
+- The Kings Arm [City SW]
+https://goo.gl/maps/sNkKTyCFuFj7rxbH7
+
+
+
+
