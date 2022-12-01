@@ -8,6 +8,9 @@ https://goo.gl/maps/dBmGxwMX7qY2GmSn6
 Haltestelle:
 Nürnberg Lenkersheimer Str. - Richtung Maximilianstr, dann mit U
 
+Liniennetz: https://raw.githubusercontent.com/cookovich/Nemberch/main/48b7707c-4ec9-573f-b2ab-dd0314ebd4f8-1.jpg
+
+
 ## Gastro 
 ### Restaurants
 - Bocksbeutel-Stube im Pillhofer [am HBF, Fränkisch, Gasthaus]
