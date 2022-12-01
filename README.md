@@ -66,5 +66,7 @@ https://goo.gl/maps/22LrrRwE8YC8iykDA
 https://goo.gl/maps/sNkKTyCFuFj7rxbH7
 
 
-
+### Sightseeing
+- Blog: https://urbanmeanderer.de/nuernberg-sehenswuerdigkeiten-rundgang-tipps/
+- Maps: https://www.google.com/maps/d/viewer?hl=de&hl=de&ll=49.45605764877612%2C11.083695609314054&z=15&mid=1JSHEIH9xZ_Js2WyA_8TsEfaWYurJSp5N
 
