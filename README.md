@@ -67,6 +67,10 @@ https://goo.gl/maps/sNkKTyCFuFj7rxbH7
 
 
 ### Sightseeing
+
+- Google Suche: https://www.google.com/travel/things-to-do/places?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4284970%2C4291517%2C4306835%2C4597339%2C4718358%2C4723331%2C4731329%2C4754388%2C4757164%2C4814050%2C4861688%2C4864715%2C4886082%2C4886480%2C4891509%2C4893075%2C4899422%2C4902544%2C4903082%2C4906050%2C4912817&hl=de-DE&gl=de&ssta=1&dest_mid=%2Fm%2F05bkf&dest_state_type=sap&dest_src=ts&q=stadtrundgang%20n%C3%BCrnberg&sa=X&ved=2ahUKEwj0tK-e-tj7AhW5SvEDHfQ2AHsQuL0BegQIMBAw
+
 - Blog: https://urbanmeanderer.de/nuernberg-sehenswuerdigkeiten-rundgang-tipps/
-- Maps: https://www.google.com/maps/d/viewer?hl=de&hl=de&ll=49.45605764877612%2C11.083695609314054&z=15&mid=1JSHEIH9xZ_Js2WyA_8TsEfaWYurJSp5N
+
+Maps: https://www.google.com/maps/d/viewer?hl=de&hl=de&ll=49.45605764877612%2C11.083695609314054&z=15&mid=1JSHEIH9xZ_Js2WyA_8TsEfaWYurJSp5N
 
